@@ -1,0 +1,7 @@
+combine.exe takes all of the zipfiles that are in the folder with it and compiles the data points
+needed from the APR's
+
+It then drops them all into one importfile that's configured for use with SF
+
+Each time the combine button is pressed the CSV file will be appended to
+This means that each time you click combine it will add the results to the file if it is already created
