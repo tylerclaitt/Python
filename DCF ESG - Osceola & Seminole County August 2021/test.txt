@@ -1,0 +1,738 @@
+0.00%
+                                                   0                       1   \
+0                             HUD Data Quality Report                     NaN   
+1                                                 NaN                     NaN   
+2                                                 NaN                     NaN   
+3                               6/1/2022 to 6/30/2022                     NaN   
+4                                                 NaN                     NaN   
+5                                                 NaN                     NaN   
+6                                     Report Criteria                     NaN   
+7                                                 NaN                     NaN   
+8                                      Organizations:                     NaN   
+9                                           Programs:                     NaN   
+10                                                NaN                     NaN   
+11                        Q1. Report Validation Table                     NaN   
+12                                                NaN                     NaN   
+13                     Total Number of Persons Served                     NaN   
+14                  Number of Adults (age 18 or over)                     NaN   
+15                   Number of Children(under age 18)                     NaN   
+16                 Number of Persons with Unknown Age                     NaN   
+17                                  Number of leavers                     NaN   
+18                            Number of adult leavers                     NaN   
+19      Number of adult and head of household leavers                     NaN   
+20                            Total Number of Stayers                     NaN   
+21                            Number of Adult Stayers                     NaN   
+22                                 Number of Veterans                     NaN   
+23             Number of Chronically Homeless Persons                     NaN   
+24                       Number of youth under age 25                     NaN   
+25  Number of parenting youth under age 25 with ch...                     NaN   
+26                 Number of Adult Heads of Household                     NaN   
+27  Number of child and unknown-age heads of house...                     NaN   
+28  Heads of households and adult stayers in the p...                     NaN   
+29                                                NaN                     NaN   
+30      Q2. Personally Identifiable Information (PII)                     NaN   
+31                                                NaN                     NaN   
+32                                       Data Element                     NaN   
+33                                         Name (3.1)                     NaN   
+34                       Social Security Number (3.2)                     NaN   
+35                                Date of Birth (3.3)                     NaN   
+36                                         Race (3.4)                     NaN   
+37                                    Ethnicity (3.5)                     NaN   
+38                                       Gender (3.6)                     NaN   
+39                                      Overall Score                     NaN   
+40                                                NaN                     NaN   
+41                        Q3. Universal Data Elements                     NaN   
+42                                                NaN                     NaN   
+43                                       Data Element                     NaN   
+44                               Veteran Status (3.7)                     NaN   
+45                          Project Entry Date (3.10)                     NaN   
+46           Relationship to Head of Household (3.15)                     NaN   
+47                             Client Location (3.16)                     NaN   
+48                          Disabling Condition (3.8)                     NaN   
+49                                                NaN                     NaN   
+50                Q4. Income and Housing Data Quality                     NaN   
+51                                                NaN                     NaN   
+52                                       Data Element                     NaN   
+53                                 Destination (3.12)                     NaN   
+54                  Income and Sources (4.2) at Start                     NaN   
+55      Income and Sources (4.2) at Annual Assessment                     NaN   
+56                   Income and Sources (4.2) at Exit                     NaN   
+57                                                NaN                     NaN   
+58                           Q5. Chronic Homelessness                     NaN   
+59                                                NaN                     NaN   
+60                         Entering into project type  Count of total records   
+61                            ES, SH, Street Outreach                       0   
+62                                                 TH                       0   
+63                                           PH (all)                      22   
+64                                              Total                      22   
+65                                                NaN                     NaN   
+66                                     Q6. Timeliness                     NaN   
+67                                                NaN                     NaN   
+68                              Time for Record Entry                     NaN   
+69                                             0 days                     NaN   
+70                                           1-3 Days                     NaN   
+71                                           4-6 days                     NaN   
+72                                          7-10 days                     NaN   
+73                                           11+ days                     NaN   
+74                                                NaN                     NaN   
+75  Q7. Inactive Records: Street Outreach & Emerge...                     NaN   
+76                                                NaN                     NaN   
+77                                       Data Element                     NaN   
+78  Contact (Adults and Heads of Household in Stre...                     NaN   
+79                Bed Night (All clients in ES - NBN)                     NaN   
+
+    2                                                  3   \
+0  NaN                                                NaN   
+1  NaN                                                NaN   
+2  NaN                                                NaN   
+3  NaN                                                NaN   
+4  NaN                                                NaN   
+5  NaN                                                NaN   
+6  NaN                                                NaN   
+7  NaN                                                NaN   
+8  NaN                         Coalition for the Homeless   
+9  NaN  Coalition for the Homeless-ORN Housing & Suppo...   
+10 NaN                                                NaN   
+11 NaN                                                NaN   
+12 NaN                                                NaN   
+13 NaN                                                NaN   
+14 NaN                                                NaN   
+15 NaN                                                NaN   
+16 NaN                                                NaN   
+17 NaN                                                NaN   
+18 NaN                                                NaN   
+19 NaN                                                NaN   
+20 NaN                                                NaN   
+21 NaN                                                NaN   
+22 NaN                                                NaN   
+23 NaN                                                NaN   
+24 NaN                                                NaN   
+25 NaN                                                NaN   
+26 NaN                                                NaN   
+27 NaN                                                NaN   
+28 NaN                                                NaN   
+29 NaN                                                NaN   
+30 NaN                                                NaN   
+31 NaN                                                NaN   
+32 NaN                                                NaN   
+33 NaN                                                NaN   
+34 NaN                                                NaN   
+35 NaN                                                NaN   
+36 NaN                                                NaN   
+37 NaN                                                NaN   
+38 NaN                                                NaN   
+39 NaN                                                NaN   
+40 NaN                                                NaN   
+41 NaN                                                NaN   
+42 NaN                                                NaN   
+43 NaN                                                NaN   
+44 NaN                                                NaN   
+45 NaN                                                NaN   
+46 NaN                                                NaN   
+47 NaN                                                NaN   
+48 NaN                                                NaN   
+49 NaN                                                NaN   
+50 NaN                                                NaN   
+51 NaN                                                NaN   
+52 NaN                                                NaN   
+53 NaN                                                NaN   
+54 NaN                                                NaN   
+55 NaN                                                NaN   
+56 NaN                                                NaN   
+57 NaN                                                NaN   
+58 NaN                                                NaN   
+59 NaN                                                NaN   
+60 NaN                                                NaN   
+61 NaN                                                NaN   
+62 NaN                                                NaN   
+63 NaN                                                NaN   
+64 NaN                                                NaN   
+65 NaN                                                NaN   
+66 NaN                                                NaN   
+67 NaN                                                NaN   
+68 NaN                                                NaN   
+69 NaN                                                NaN   
+70 NaN                                                NaN   
+71 NaN                                                NaN   
+72 NaN                                                NaN   
+73 NaN                                                NaN   
+74 NaN                                                NaN   
+75 NaN                                                NaN   
+76 NaN                                                NaN   
+77 NaN                                                NaN   
+78 NaN                                                NaN   
+79 NaN                                                NaN   
+
+                               4                                        5   \
+0                             NaN                                      NaN   
+1                             NaN                                      NaN   
+2                             NaN                                      NaN   
+3                             NaN                                      NaN   
+4                             NaN                                      NaN   
+5                             NaN                                      NaN   
+6                             NaN                                      NaN   
+7                             NaN                                      NaN   
+8                             NaN                                      NaN   
+9                             NaN                                      NaN   
+10                            NaN                                      NaN   
+11                            NaN                                      NaN   
+12                            NaN                                      NaN   
+13                            NaN                                      NaN   
+14                            NaN                                      NaN   
+15                            NaN                                      NaN   
+16                            NaN                                      NaN   
+17                            NaN                                      NaN   
+18                            NaN                                      NaN   
+19                            NaN                                      NaN   
+20                            NaN                                      NaN   
+21                            NaN                                      NaN   
+22                            NaN                                      NaN   
+23                            NaN                                      NaN   
+24                            NaN                                      NaN   
+25                            NaN                                      NaN   
+26                            NaN                                      NaN   
+27                            NaN                                      NaN   
+28                            NaN                                      NaN   
+29                            NaN                                      NaN   
+30                            NaN                                      NaN   
+31                            NaN                                      NaN   
+32  Client Doesn't Know / Refused                                      NaN   
+33                              0                                      NaN   
+34                              0                                      NaN   
+35                              0                                      NaN   
+36                              0                                      NaN   
+37                              0                                      NaN   
+38                              0                                      NaN   
+39                            NaN                                      NaN   
+40                            NaN                                      NaN   
+41                            NaN                                      NaN   
+42                            NaN                                      NaN   
+43                            NaN                                      NaN   
+44                            NaN                                      NaN   
+45                            NaN                                      NaN   
+46                            NaN                                      NaN   
+47                            NaN                                      NaN   
+48                            NaN                                      NaN   
+49                            NaN                                      NaN   
+50                            NaN                                      NaN   
+51                            NaN                                      NaN   
+52                            NaN                                      NaN   
+53                            NaN                                      NaN   
+54                            NaN                                      NaN   
+55                            NaN                                      NaN   
+56                            NaN                                      NaN   
+57                            NaN                                      NaN   
+58                            NaN                                      NaN   
+59                            NaN                                      NaN   
+60                            NaN  Missing time in institution  (3.917.2 )   
+61                            NaN                                      NaN   
+62                            NaN                                        0   
+63                            NaN                                        0   
+64                            NaN                                      NaN   
+65                            NaN                                      NaN   
+66                            NaN                                      NaN   
+67                            NaN                                      NaN   
+68                            NaN                                      NaN   
+69                            NaN                                      NaN   
+70                            NaN                                      NaN   
+71                            NaN                                      NaN   
+72                            NaN                                      NaN   
+73                            NaN                                      NaN   
+74                            NaN                                      NaN   
+75                            NaN                                      NaN   
+76                            NaN                                      NaN   
+77                            NaN                                      NaN   
+78                            NaN                                      NaN   
+79                            NaN                                      NaN   
+
+                     6                                  7   8   \
+0                   NaN                                NaN NaN   
+1                   NaN                                NaN NaN   
+2                   NaN                                NaN NaN   
+3                   NaN                                NaN NaN   
+4                   NaN                                NaN NaN   
+5                   NaN                                NaN NaN   
+6                   NaN                                NaN NaN   
+7                   NaN                                NaN NaN   
+8                   NaN                                NaN NaN   
+9                   NaN                                NaN NaN   
+10                  NaN                                NaN NaN   
+11                  NaN                                NaN NaN   
+12                  NaN                                NaN NaN   
+13                  NaN                                NaN NaN   
+14                  NaN                                NaN NaN   
+15                  NaN                                NaN NaN   
+16                  NaN                                NaN NaN   
+17                  NaN                                NaN NaN   
+18                  NaN                                NaN NaN   
+19                  NaN                                NaN NaN   
+20                  NaN                                NaN NaN   
+21                  NaN                                NaN NaN   
+22                  NaN                                NaN NaN   
+23                  NaN                                NaN NaN   
+24                  NaN                                NaN NaN   
+25                  NaN                                NaN NaN   
+26                  NaN                                NaN NaN   
+27                  NaN                                NaN NaN   
+28                  NaN                                NaN NaN   
+29                  NaN                                NaN NaN   
+30                  NaN                                NaN NaN   
+31                  NaN                                NaN NaN   
+32  Information Missing                                NaN NaN   
+33                    0                                NaN NaN   
+34                    0                                NaN NaN   
+35                    0                                NaN NaN   
+36                    0                                NaN NaN   
+37                    0                                NaN NaN   
+38                    0                                NaN NaN   
+39                  NaN                                NaN NaN   
+40                  NaN                                NaN NaN   
+41                  NaN                                NaN NaN   
+42                  NaN                                NaN NaN   
+43                  NaN                                NaN NaN   
+44                  NaN                                NaN NaN   
+45                  NaN                                NaN NaN   
+46                  NaN                                NaN NaN   
+47                  NaN                                NaN NaN   
+48                  NaN                                NaN NaN   
+49                  NaN                                NaN NaN   
+50                  NaN                                NaN NaN   
+51                  NaN                                NaN NaN   
+52                  NaN                                NaN NaN   
+53                  NaN                                NaN NaN   
+54                  NaN                                NaN NaN   
+55                  NaN                                NaN NaN   
+56                  NaN                                NaN NaN   
+57                  NaN                                NaN NaN   
+58                  NaN                                NaN NaN   
+59                  NaN                                NaN NaN   
+60                  NaN  Missing time in housing (3.917.2) NaN   
+61                  NaN                                NaN NaN   
+62                  NaN                                  0 NaN   
+63                  NaN                                  0 NaN   
+64                  NaN                                NaN NaN   
+65                  NaN                                NaN NaN   
+66                  NaN                                NaN NaN   
+67                  NaN                                NaN NaN   
+68                  NaN                                NaN NaN   
+69                  NaN                                NaN NaN   
+70                  NaN                                NaN NaN   
+71                  NaN                                NaN NaN   
+72                  NaN                                NaN NaN   
+73                  NaN                                NaN NaN   
+74                  NaN                                NaN NaN   
+75                  NaN                                NaN NaN   
+76                  NaN                                NaN NaN   
+77                  NaN                       # of Records NaN   
+78                  NaN                                  0 NaN   
+79                  NaN                                  0 NaN   
+
+                                 9   \
+0                               NaN   
+1                               NaN   
+2                               NaN   
+3                               NaN   
+4                               NaN   
+5                               NaN   
+6                               NaN   
+7                               NaN   
+8                               NaN   
+9                               NaN   
+10                              NaN   
+11                              NaN   
+12                              NaN   
+13                              NaN   
+14                              NaN   
+15                              NaN   
+16                              NaN   
+17                              NaN   
+18                              NaN   
+19                              NaN   
+20                              NaN   
+21                              NaN   
+22                              NaN   
+23                              NaN   
+24                              NaN   
+25                              NaN   
+26                              NaN   
+27                              NaN   
+28                              NaN   
+29                              NaN   
+30                              NaN   
+31                              NaN   
+32                      Data Issues   
+33                                0   
+34                                0   
+35                                0   
+36                              NaN   
+37                              NaN   
+38                              NaN   
+39                              NaN   
+40                              NaN   
+41                              NaN   
+42                              NaN   
+43                      Error Count   
+44                                0   
+45                                0   
+46                               53   
+47                                0   
+48                                0   
+49                              NaN   
+50                              NaN   
+51                              NaN   
+52                      Error Count   
+53                                0   
+54                                0   
+55                                0   
+56                                0   
+57                              NaN   
+58                              NaN   
+59                              NaN   
+60                              NaN   
+61                              NaN   
+62                              NaN   
+63                              NaN   
+64                              NaN   
+65                              NaN   
+66                              NaN   
+67                              NaN   
+68  Number of Project Start Records   
+69                                0   
+70                                0   
+71                                0   
+72                                0   
+73                                0   
+74                              NaN   
+75                              NaN   
+76                              NaN   
+77                              NaN   
+78                              NaN   
+79                              NaN   
+
+                                                 10                     11  \
+0                                               NaN                    NaN   
+1                                               NaN                    NaN   
+2                                               NaN                    NaN   
+3                                               NaN                    NaN   
+4                                               NaN                    NaN   
+5                                               NaN                    NaN   
+6                                               NaN                    NaN   
+7                                               NaN                    NaN   
+8                                               NaN                    NaN   
+9                                               NaN                    NaN   
+10                                              NaN                    NaN   
+11                                              NaN                    NaN   
+12                                              NaN                    NaN   
+13                                              NaN                    NaN   
+14                                              NaN                    NaN   
+15                                              NaN                    NaN   
+16                                              NaN                    NaN   
+17                                              NaN                    NaN   
+18                                              NaN                    NaN   
+19                                              NaN                    NaN   
+20                                              NaN                    NaN   
+21                                              NaN                    NaN   
+22                                              NaN                    NaN   
+23                                              NaN                    NaN   
+24                                              NaN                    NaN   
+25                                              NaN                    NaN   
+26                                              NaN                    NaN   
+27                                              NaN                    NaN   
+28                                              NaN                    NaN   
+29                                              NaN                    NaN   
+30                                              NaN                    NaN   
+31                                              NaN                    NaN   
+32                                              NaN                    NaN   
+33                                              NaN                    NaN   
+34                                              NaN                    NaN   
+35                                              NaN                    NaN   
+36                                              NaN                    NaN   
+37                                              NaN                    NaN   
+38                                              NaN                    NaN   
+39                                              NaN                    NaN   
+40                                              NaN                    NaN   
+41                                              NaN                    NaN   
+42                                              NaN                    NaN   
+43                                              NaN                    NaN   
+44                                              NaN                    NaN   
+45                                              NaN                    NaN   
+46                                              NaN                    NaN   
+47                                              NaN                    NaN   
+48                                              NaN                    NaN   
+49                                              NaN                    NaN   
+50                                              NaN                    NaN   
+51                                              NaN                    NaN   
+52                                              NaN                    NaN   
+53                                              NaN                    NaN   
+54                                              NaN                    NaN   
+55                                              NaN                    NaN   
+56                                              NaN                    NaN   
+57                                              NaN                    NaN   
+58                                              NaN                    NaN   
+59                                              NaN                    NaN   
+60  Approximate Date started (3.917.3) DK/R/missing                    NaN   
+61                                                0                    NaN   
+62                                                0                    NaN   
+63                                                0                    NaN   
+64                                              NaN                    NaN   
+65                                              NaN                    NaN   
+66                                              NaN                    NaN   
+67                                              NaN                    NaN   
+68                                              NaN                    NaN   
+69                                              NaN                    NaN   
+70                                              NaN                    NaN   
+71                                              NaN                    NaN   
+72                                              NaN                    NaN   
+73                                              NaN                    NaN   
+74                                              NaN                    NaN   
+75                                              NaN                    NaN   
+76                                              NaN                    NaN   
+77                                              NaN  # of Inactive Records   
+78                                              NaN                      0   
+79                                              NaN                      0   
+
+                                12                                       13  \
+0                              NaN                                      NaN   
+1                              NaN                                      NaN   
+2                              NaN                                      NaN   
+3                              NaN                                      NaN   
+4                              NaN                                      NaN   
+5                              NaN                                      NaN   
+6                              NaN                                      NaN   
+7                              NaN                                      NaN   
+8                              NaN                                      NaN   
+9                              NaN                                      NaN   
+10                             NaN                                      NaN   
+11                             NaN                                      NaN   
+12                             NaN                                      NaN   
+13                             NaN                                       53   
+14                             NaN                                       22   
+15                             NaN                                       31   
+16                             NaN                                        0   
+17                             NaN                                        0   
+18                             NaN                                        0   
+19                             NaN                                        0   
+20                             NaN                                       53   
+21                             NaN                                       22   
+22                             NaN                                        0   
+23                             NaN                                        4   
+24                             NaN                                        0   
+25                             NaN                                        0   
+26                             NaN                                       16   
+27                             NaN                                        0   
+28                             NaN                                       11   
+29                             NaN                                      NaN   
+30                             NaN                                      NaN   
+31                             NaN                                      NaN   
+32                 % of Error Rate                                      NaN   
+33                           0.00%                                      NaN   
+34                           0.00%                                      NaN   
+35                           0.00%                                      NaN   
+36                           0.00%                                      NaN   
+37                           0.00%                                      NaN   
+38                           0.00%                                      NaN   
+39                           0.00%                                      NaN   
+40                             NaN                                      NaN   
+41                             NaN                                      NaN   
+42                             NaN                                      NaN   
+43                 % of Error Rate                                      NaN   
+44                           0.00%                                      NaN   
+45                           0.00%                                      NaN   
+46                         100.00%                                      NaN   
+47                           0.00%                                      NaN   
+48                           0.00%                                      NaN   
+49                             NaN                                      NaN   
+50                             NaN                                      NaN   
+51                             NaN                                      NaN   
+52                 % of Error Rate                                      NaN   
+53                           0.00%                                      NaN   
+54                           0.00%                                      NaN   
+55                           0.00%                                      NaN   
+56                           0.00%                                      NaN   
+57                             NaN                                      NaN   
+58                             NaN                                      NaN   
+59                             NaN                                      NaN   
+60                             NaN  Number of times (3.917.4) DK/R /missing   
+61                             NaN                                        0   
+62                             NaN                                        0   
+63                             NaN                                        0   
+64                             NaN                                      NaN   
+65                             NaN                                      NaN   
+66                             NaN                                      NaN   
+67                             NaN                                      NaN   
+68  Number of Project Exit Records                                      NaN   
+69                               0                                      NaN   
+70                               0                                      NaN   
+71                               0                                      NaN   
+72                               0                                      NaN   
+73                               0                                      NaN   
+74                             NaN                                      NaN   
+75                             NaN                                      NaN   
+76                             NaN                                      NaN   
+77                             NaN                                      NaN   
+78                             NaN                                      NaN   
+79                             NaN                                      NaN   
+
+    14                                       15  16  17  18  \
+0  NaN                                      NaN NaN NaN NaN   
+1  NaN                                      NaN NaN NaN NaN   
+2  NaN                                      NaN NaN NaN NaN   
+3  NaN                                      NaN NaN NaN NaN   
+4  NaN                                      NaN NaN NaN NaN   
+5  NaN                                      NaN NaN NaN NaN   
+6  NaN                                      NaN NaN NaN NaN   
+7  NaN                                      NaN NaN NaN NaN   
+8  NaN                                      NaN NaN NaN NaN   
+9  NaN                                      NaN NaN NaN NaN   
+10 NaN                                      NaN NaN NaN NaN   
+11 NaN                                      NaN NaN NaN NaN   
+12 NaN                                      NaN NaN NaN NaN   
+13 NaN                                      NaN NaN NaN NaN   
+14 NaN                                      NaN NaN NaN NaN   
+15 NaN                                      NaN NaN NaN NaN   
+16 NaN                                      NaN NaN NaN NaN   
+17 NaN                                      NaN NaN NaN NaN   
+18 NaN                                      NaN NaN NaN NaN   
+19 NaN                                      NaN NaN NaN NaN   
+20 NaN                                      NaN NaN NaN NaN   
+21 NaN                                      NaN NaN NaN NaN   
+22 NaN                                      NaN NaN NaN NaN   
+23 NaN                                      NaN NaN NaN NaN   
+24 NaN                                      NaN NaN NaN NaN   
+25 NaN                                      NaN NaN NaN NaN   
+26 NaN                                      NaN NaN NaN NaN   
+27 NaN                                      NaN NaN NaN NaN   
+28 NaN                                      NaN NaN NaN NaN   
+29 NaN                                      NaN NaN NaN NaN   
+30 NaN                                      NaN NaN NaN NaN   
+31 NaN                                      NaN NaN NaN NaN   
+32 NaN                                      NaN NaN NaN NaN   
+33 NaN                                      NaN NaN NaN NaN   
+34 NaN                                      NaN NaN NaN NaN   
+35 NaN                                      NaN NaN NaN NaN   
+36 NaN                                      NaN NaN NaN NaN   
+37 NaN                                      NaN NaN NaN NaN   
+38 NaN                                      NaN NaN NaN NaN   
+39 NaN                                      NaN NaN NaN NaN   
+40 NaN                                      NaN NaN NaN NaN   
+41 NaN                                      NaN NaN NaN NaN   
+42 NaN                                      NaN NaN NaN NaN   
+43 NaN                                      NaN NaN NaN NaN   
+44 NaN                                      NaN NaN NaN NaN   
+45 NaN                                      NaN NaN NaN NaN   
+46 NaN                                      NaN NaN NaN NaN   
+47 NaN                                      NaN NaN NaN NaN   
+48 NaN                                      NaN NaN NaN NaN   
+49 NaN                                      NaN NaN NaN NaN   
+50 NaN                                      NaN NaN NaN NaN   
+51 NaN                                      NaN NaN NaN NaN   
+52 NaN                                      NaN NaN NaN NaN   
+53 NaN                                      NaN NaN NaN NaN   
+54 NaN                                      NaN NaN NaN NaN   
+55 NaN                                      NaN NaN NaN NaN   
+56 NaN                                      NaN NaN NaN NaN   
+57 NaN                                      NaN NaN NaN NaN   
+58 NaN                                      NaN NaN NaN NaN   
+59 NaN                                      NaN NaN NaN NaN   
+60 NaN  Number of months (3.917.5) DK/R/missing NaN NaN NaN   
+61 NaN                                        0 NaN NaN NaN   
+62 NaN                                        0 NaN NaN NaN   
+63 NaN                                        0 NaN NaN NaN   
+64 NaN                                      NaN NaN NaN NaN   
+65 NaN                                      NaN NaN NaN NaN   
+66 NaN                                      NaN NaN NaN NaN   
+67 NaN                                      NaN NaN NaN NaN   
+68 NaN                                      NaN NaN NaN NaN   
+69 NaN                                      NaN NaN NaN NaN   
+70 NaN                                      NaN NaN NaN NaN   
+71 NaN                                      NaN NaN NaN NaN   
+72 NaN                                      NaN NaN NaN NaN   
+73 NaN                                      NaN NaN NaN NaN   
+74 NaN                                      NaN NaN NaN NaN   
+75 NaN                                      NaN NaN NaN NaN   
+76 NaN                                      NaN NaN NaN NaN   
+77 NaN                    % of Inactive Records NaN NaN NaN   
+78 NaN                                    0.00% NaN NaN NaN   
+79 NaN                                    0.00% NaN NaN NaN   
+
+                                  19  
+0                                NaN  
+1                                NaN  
+2                                NaN  
+3                                NaN  
+4                                NaN  
+5                                NaN  
+6                                NaN  
+7                                NaN  
+8                                NaN  
+9                                NaN  
+10                               NaN  
+11                               NaN  
+12                               NaN  
+13                               NaN  
+14                               NaN  
+15                               NaN  
+16                               NaN  
+17                               NaN  
+18                               NaN  
+19                               NaN  
+20                               NaN  
+21                               NaN  
+22                               NaN  
+23                               NaN  
+24                               NaN  
+25                               NaN  
+26                               NaN  
+27                               NaN  
+28                               NaN  
+29                               NaN  
+30                               NaN  
+31                               NaN  
+32                               NaN  
+33                               NaN  
+34                               NaN  
+35                               NaN  
+36                               NaN  
+37                               NaN  
+38                               NaN  
+39                               NaN  
+40                               NaN  
+41                               NaN  
+42                               NaN  
+43                               NaN  
+44                               NaN  
+45                               NaN  
+46                               NaN  
+47                               NaN  
+48                               NaN  
+49                               NaN  
+50                               NaN  
+51                               NaN  
+52                               NaN  
+53                               NaN  
+54                               NaN  
+55                               NaN  
+56                               NaN  
+57                               NaN  
+58                               NaN  
+59                               NaN  
+60  % of records unable to calculate  
+61                             0.00%  
+62                             0.00%  
+63                             0.00%  
+64                             0.00%  
+65                               NaN  
+66                               NaN  
+67                               NaN  
+68                               NaN  
+69                               NaN  
+70                               NaN  
+71                               NaN  
+72                               NaN  
+73                               NaN  
+74                               NaN  
+75                               NaN  
+76                               NaN  
+77                               NaN  
+78                               NaN  
+79                               NaN  
